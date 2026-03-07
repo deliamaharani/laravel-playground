@@ -1,0 +1,5 @@
+Laravel Setup Notes
+
+Branch: feat/laravel-setup
+
+This branch is used to set up the Laravel project and practice Git workflow.
